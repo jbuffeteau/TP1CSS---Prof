@@ -1,0 +1,63 @@
+#container
+{
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 500px;
+    background-color: black;
+}
+#ligne4
+{
+    display: flex;
+    justify-content: flex-end;
+}
+.ligne
+{
+    display: flex;
+}
+.item
+{
+    border-radius: 10px;
+    height: 50px;
+    width: 100%;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#div1
+{
+    background-color: rgb(19, 165, 223);
+}
+#div2
+{
+    background-color: rgb(19, 223, 29);
+}
+#div3
+{
+    background-color: rgb(234, 11, 241);
+}
+#div4
+{
+    background-color: rgb(162, 223, 19);
+    width: 50%;
+}
+#div5
+{
+    background-color: rgb(9, 30, 221);
+    width: 50%;
+}
+#div6
+{
+    background-color: rgb(223, 19, 19);
+}
+#div7
+{
+    background-color: rgb(8, 227, 243);
+}
+#div8
+{
+    background-color: rgb(208, 243, 8);
+}

@@ -1,0 +1,24 @@
+#divPrincipale
+{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.noire
+{
+    background-color: black;
+}
+.yellow
+{
+    background-color: yellow;
+}
+#red
+{
+    background-color: red;
+}
+#divPrincipale div
+{
+    width: 100px;
+    height: 100px;
+}

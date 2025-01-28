@@ -1,0 +1,42 @@
+#container
+{
+    display: flex;
+    height: 300px;
+}
+#gauche 
+{
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+}
+#droite
+{
+    width: 300px;
+}
+img 
+{
+    width: 200px;
+    height: 200px;
+}
+#haut
+{
+    height: 50%;
+    background-color: sandybrown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bas
+{
+    height: 50%;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+strong
+{
+    font-size: 30px;
+}
